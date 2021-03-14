@@ -1,0 +1,105 @@
+﻿html {
+  scroll-behavior: smooth;
+}
+ .bg-radio {
+	 background-image: url('../grafika/tlo1.jpg');
+	 height: 100vh;
+	 background-repeat: no-repeat;
+	 background-size: cover;
+ }
+ 
+ .radio-kolor {
+	color: #212529;
+    background-color: #f47a20;
+    border-color: #f47a20;
+ } 
+ 
+ .radio-kolor:hover {
+	color: #f47a20;
+    background-color: #212529;
+    border-color: #212529;
+ }
+ 
+.mh300 {
+	 max-height: 300px!important;
+ }
+ .ramka {
+	 margin-bottom: 0px;
+ }
+ 
+ .embed-responsive-1by1::before {
+	 padding-top: 33%!important;
+ }
+ 
+ @media only screen and (max-width: 600px) {
+ .embed-responsive-1by1::before {
+	 padding-top: 100%!important;
+ }
+ .radio {
+	 margin-top: 30px!important;
+	 margin-left: 10px;
+	 display: block;
+	 margin-bottom: 400px;
+ }
+ .marg-top {
+	padding-top: 150px!important;
+}
+ .bg-radio {
+	 background-image: url('../grafika/tlo2.jpg');
+	 height: 100vh;
+	 background-repeat: no-repeat;
+ }
+}
+
+ .radio {
+	 margin-left: 10px;
+	 margin-top: 40px;
+	 
+ }
+.logo {
+	width: 50px;
+	height: 50px;
+	margin-right: 20px;
+}
+.fas {
+	font-size: 40pt;
+}
+.radio2 {
+	clear: both;
+}
+
+.play {
+	padding-bottom: 50px;
+	display: block;
+}
+
+.naglowek {
+	width: 100%;
+	height: 55px;
+	text-align: center;
+	font-size: 16pt;
+	color: white;
+	background-color: #f47a20;
+	display: block;
+	padding-top: 12px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 5px;
+	
+}
+
+.lewa {
+	padding-top: 15px;
+}
+
+.srodek {
+	text-align: center;
+}
+
+.mt20 {
+	margin-top: 20px;
+}
+
+#infoDiv, #statusDiv {
+	color: White!important;
+}
