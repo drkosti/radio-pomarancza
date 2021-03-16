@@ -5,7 +5,7 @@ include('../inc/header.php')
     <title><?PHP echo "$nazwa | $slogan"?></title>
   </head>
   <body onload="
-    rbplayer.setup('https://s3.slotex.pl/shoutcast/7632','/stream?type=.mp3');
+    rbplayer.setup('<?PHP echo $stream ?>','/stream?type=.mp3');
     rbplayer.setupPlayer();
 ">
   <?PHP include('../inc/top.php')?>

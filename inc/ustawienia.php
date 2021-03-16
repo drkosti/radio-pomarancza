@@ -12,7 +12,7 @@ $slogan='najbardziej pomarańczowa muzyka w necie';
 
 //adres serwera do odsłuchu. Pamiętaj, że jeśli masz zainstalowany na swoim serwerze certyfikat SSL,
 //(adres twojej strony zaczyna się od HTTPS, zamiast HTTP), to poniższy link MUSI się również zaczynać od HTTPS.
-$stream='https://s3.slotex.pl/shoutcast/7632/stream';
+$stream='https://s3.slotex.pl/shoutcast/7632';
 
 //IP lub HOST serwera SHOUTCAST (konfiguracja statystyk)
 $ip='s3.slotex.pl';

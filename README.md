@@ -5,6 +5,11 @@ Aby uruchomić na nim radio wystrczy edytować plik **inc/ustawienia.php**
 
 Kontakt przez FB: https://www.facebook.com/kostekkosti/
 
+### Zmiany:
+16.03.2021
+
+Poprawiony błąd w inc/ustawienia.php ; index.php ; info/rekrutacja.php 
+
 [Zobacz DEMO](http://135.125.183.58/radio-pomarancza/)
 
 Wygląd:
