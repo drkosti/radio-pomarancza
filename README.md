@@ -10,7 +10,7 @@ Kontakt przez FB: https://www.facebook.com/kostekkosti/
 
 Poprawiony błąd w inc/ustawienia.php ; index.php ; info/rekrutacja.php 
 
-[Zobacz DEMO](http://135.125.183.58/radio-pomarancza/)
+
 
 Wygląd:
 ![wyglad](https://github.com/drkosti/radio-pomarancza/blob/main/grafika/screeny/screen2.png)
