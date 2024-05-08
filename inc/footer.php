@@ -39,7 +39,7 @@
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
     © 2021 Copyright:
     <a class="text-white" href="<?PHP echo $url?>"><?PHP echo $nazwa?></a></br>
-	Autor Szablonu: <a class="text-white" href="https://www.facebook.com/kostekkosti" target="_blank" >Konrad Kostrzewa</a>
+	Autor Szablonu: <a class="text-white" href="https://www.facebook.com/tuxinfopl" target="_blank" >Konrad Kostrzewa</a>
   </div>
 
 </footer>
