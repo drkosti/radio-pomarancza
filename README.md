@@ -3,7 +3,7 @@
 
 Aby uruchomić na nim radio wystrczy edytować plik **inc/ustawienia.php**
 
-Kontakt przez FB: https://www.facebook.com/kostekkosti/ lub https://www.facebook.com/tuxinfopl/
+Kontakt przez FB: https://www.facebook.com/tuxinfopl/
 
 ### Zmiany:
 16.03.2021
